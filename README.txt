@@ -5,7 +5,6 @@ The supplementary material of the paper on sampling design in landscape genomics
 If you want to create a sampling strategy for your data, use the scripts contained in the Sampling Design Scripts folder:
 
 - Sampling Deisgn Scripts: contains scripts for creating a sampling strategy out of a user-defined input. 
-
 > 'compute_sampling_strategy.R': the R script to compute sampling strategy. 
 > 'compute_k_for_hybrid.R': the R script to compute k for the hybrid design using NbClust. 
 
